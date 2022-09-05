@@ -25,5 +25,8 @@ C:\projects\imagecolor>imagecolorcalc.pl sample1.png
  3: 0.123  182  54- 76- 98 210 0.38 0.45     青 紺青（こんじょう）
 </pre>
 
+Value Note 記事  
+https://www.value-domain.com/media/gcp-ai-imagecolor/
+
 ## Author  
 PicoLix Design / Naeba [Twitter nae2sho](https://twitter.com/nae2sho)
